@@ -117,6 +117,8 @@ Directory Structure
 ## Papers
 ### Search-base Planning
 * [A*: ](https://ieeexplore.ieee.org/document/4082128) A Formal Basis for the heuristic Determination of Minimum Cost Paths
+* [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) A lot of motion graph, easy to learn
+* [Amit’s A* Pages](http://theory.stanford.edu/~amitp/GameProgramming/)Pathfinding and other topic
 * [Learning Real-Time A*: ](https://arxiv.org/pdf/1110.4076.pdf) Learning in Real-Time Search: A Unifying Framework
 * [Real-Time Adaptive A*: ](http://idm-lab.org/bib/abstracts/papers/aamas06.pdf) Real-Time Adaptive A*
 * [Lifelong Planning A*: ](https://www.cs.cmu.edu/~maxim/files/aij04.pdf) Lifelong Planning A*
